@@ -1,36 +1,36 @@
-# 👋 Hello! I'm Ngawang
+# Hello! I'm Ngawang
 
 Welcome to my GitHub profile — where ideas meet implementation.
 
-## 💼 About Me
+## About Me
 
 I'm currently working in data, logic, and markets. I'm passionate about:
 
-- 📊 **Quantitative finance**: portfolio construction, performance attribution
-- 🧠 **Machine learning**: currently focused on **LLMs**, **RAG systems**, and **MLOps**
-- 🛠️ **Programming**: building practical tools that connect theory to real-world use
+-  **Quantitative finance**: portfolio construction, performance attribution
+-  **Machine learning**: currently focused on **LLMs**, **RAG systems**, and **MLOps**
+- 🛠 **Programming**: building practical tools that connect theory to real-world use
 
 With a strong interest in combining financial insight with technical depth.
 
-## 🚧 Current Projects
+##  Current Projects
 
-- 🔍 Exploring scalable **Retrieval-Augmented Generation** workflows using vector databases
-- 🧪 Experimenting with **multi-agent systems** and **fine-tuning open-source LLMs**
-- 📈 Prototyping simple but powerful tools for **index research**, **backtesting**, and **reporting**
+-  Exploring scalable **Retrieval-Augmented Generation** workflows using vector databases
+-  Experimenting with **multi-agent systems** and **fine-tuning open-source LLMs**
+-  Prototyping simple but powerful tools for **index research**, **backtesting**, and **reporting**
 
-## 📚 Interests
+##  Interests
 
 - Applied ML in finance
 - Low-latency, high-signal strategies
 - Research labs, hedge funds, and startups where theory meets execution
 
-## 📫 Let's Connect
+##  Let's Connect
 
 Feel free to reach out if you're into similar things or want to collaborate.
 ---
 
 
-Thanks for stopping by 👋
+Thanks for stopping by 
 
 
 <!---
