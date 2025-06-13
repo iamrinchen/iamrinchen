@@ -8,7 +8,7 @@ I'm currently working in data, logic, and markets. I'm passionate about:
 
 -  **Quantitative finance**: portfolio construction, performance attribution
 -  **Machine learning**: currently focused on **LLMs**, **RAG systems**, and **MLOps**
-- 🛠 **Programming**: building practical tools that connect theory to real-world use
+- **Programming**: building practical tools that connect theory to real-world use
 
 With a strong interest in combining financial insight with technical depth.
 
