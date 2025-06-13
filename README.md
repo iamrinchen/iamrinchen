@@ -1,6 +1,5 @@
 # Hello! I'm Ngawang
 
-Welcome to my GitHub profile — where ideas meet implementation.
 
 ## About Me
 
