@@ -6,21 +6,19 @@
 I'm currently working in data, logic, and markets. I'm passionate about:
 
 -  **Quantitative finance**: portfolio construction, performance attribution
--  **Machine learning**: currently focused on **LLMs**, **RAG systems**, and **MLOps**
+-  **Machine learning**: currently learning the basics and doing my own projects
 - **Programming**: building practical tools that connect theory to real-world use
 
 With a strong interest in combining financial insight with technical depth.
 
 ##  Current Projects
 
--  Exploring scalable **Retrieval-Augmented Generation** workflows using vector databases
--  Experimenting with **multi-agent systems** and **fine-tuning open-source LLMs**
 -  Prototyping simple but powerful tools for **index research**, **backtesting**, and **reporting**
 
 ##  Interests
 
 - Applied ML in finance
-- Low-latency, high-signal strategies
+- high-signal strategies
 - Research labs, hedge funds, and startups where theory meets execution
 
 ##  Let's Connect
